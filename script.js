@@ -19,6 +19,4 @@ function pilotSwap(teamId, buttonId) {
         teamBox.style.backgroundColor = '';
         button.disabled = false;
     }, 20000);
-
-
 }
